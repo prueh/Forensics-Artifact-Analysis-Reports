@@ -1,5 +1,4 @@
 # Forensics-Artifact-Analysis-Reports
-Digital Forensics, Incident Response (DFIR), and System Baselining.
 Project Overview: Forensic Artifact Analysis
 ​Analyst: Prudence Nthenya
 Timeline: April - May 2026
